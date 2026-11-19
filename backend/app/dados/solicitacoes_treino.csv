@@ -1,0 +1,901 @@
+texto,categoria
+"Prezados, a rua inteira fica no escuro à noite na viela faz quinze dias. Isso é um descaso!",iluminacao_publica
+O asfalto esta todo esburacado perto da padaria faz quinze dias!,buraco_pavimentacao
+"Ola, um galho grande esta pendurado na rua de tras. Ja reclamei antes.",poda_arvore
+"Boa tarde, pedido de radar na avenida há uma semana. Aguardo retorno.",transito_sinalizacao
+"socorro, o poste esta apagado em frente a igreja de novo",iluminacao_publica
+"Socorro, abriu um buraco na rua na avenida principal desde segunda.",buraco_pavimentacao
+"Boa tarde, pedido de cata-bagulho em frente à igreja. Moradores pedem providência.",coleta_lixo
+Gostaria de informar que a rua precisa de recapeamento ao lado do mercado desde segunda. Moradores pedem providencia.,buraco_pavimentacao
+"Oi, o refletor da quadra está queimado em frente à igreja faz quinze dias. Moradores pedem providência.",iluminacao_publica
+Venho reclamar que esgoto correndo a céu aberto em frente ao número já faz tempo. Moradores pedem providência.,agua_esgoto
+"Oi, descarte irregular de sofa e moveis perto da padaria ha uma semana",coleta_lixo
+"oi, o refletor da quadra está queimado na avenida principal.",iluminacao_publica
+"Oi, jogaram entulho na esquina perto do ponto de ônibus desde segunda. Moradores pedem providência.",coleta_lixo
+Gostaria de informar que a pintura da sinalização sumiu ao lado do mercado. Já reclamei antes.,transito_sinalizacao
+"bom dia, o esgoto está transbordando na avenida principal de novo. moradores pedem providência.",agua_esgoto
+A água chega suja na torneira há uma semana,agua_esgoto
+A placa de velocidade esta virada na avenida principal de novo. Moradores pedem providencia.,transito_sinalizacao
+"prezados, galhos secos caindo na calcada na ivela ha uma semana. aguardo retorno.",poda_arvore
+"Socorro, a coleta de lixo atrasou na minha rua ha mais de um mes. Moradores pedem providencia.",coleta_lixo
+Venho reclamar que precisa de lombada na rua perto do ponto de ônibus desed segunda,transito_sinalizacao
+"Socorro, trocar a lâmpada do poste em frente à igreja desde ontem. Aguardo retorno.",iluminacao_publica
+"oi, a árvore precisa de poda na viela há uma semana. isso é um descaso!",poda_arvore
+Gostaria de informar que o refletor da quadra esta queimado na esquina.,iluminacao_publica
+"Por favor, a arvore precisa de poda perto da padaria ha mais de um mes. Aguardo retorno.",poda_arvore
+"Oi, os galhos estão tapando a placa ao lado do mercado desde ontem!",poda_arvore
+"Prezados, a luminária do poste quebrou na esquina!",iluminacao_publica
+"Boa tarde, os galhos da arvore estao encostando nos fios na rua de tras de novo!",poda_arvore
+Venho reclamar que o poste em frente de casa não acende em frente ao número já faz tempo. Obrigado.,iluminacao_publica
+"Socorro, o esgoto está transbordando perto do ponto de ônibus desde ontem.",agua_esgoto
+venho reclamar que carros estacionados em fila dupla ao lado do mercado de novo. isso e um descaso!,transito_sinalizacao
+venho reclamar que descarte irregular de sofá e móveis em frente ao número há mais de um mês. moradores pedem providência.,coleta_lixo
+"prezados, a placa de pare caiu há mais de um mês. já reclamei antes.",transito_sinalizacao
+"Boa tarde, a árvore precisa de poda desde segunda. Isso é um descaso!",poda_arvore
+"Bom dia, o asfalto cedeu em frente à igreja de novo. Moradores pedem providência.",buraco_pavimentacao
+Venho reclamar que pedido de cata-bagulho perto do ponto de onibus desde ontem. Ja reclamei antes.,coleta_lixo
+"Oi, a árvore precisa de poda na praça do bairro!",poda_arvore
+"Por favor, o remendo do asfalto abriu de novo na avenida principal. Aguardo retorno.",buraco_pavimentacao
+"Prezados, pedido de remçoão de árvore morta em frente ao número desde ontem. Obrigado.",poda_arvore
+"Oi, a boca de lobo esta entupida de lixo perto da padaria desde segunda",agua_esgoto
+venho reclamar que a coleta de lixo atrasou ao lado do mercado de novo. isso e um descaso!,coleta_lixo
+"prezados, a placa de velocidade está viarda já faz tempo. obrigado.",transito_sinalizacao
+"Ola, a rua inteira fica no escuro a noite na viela de novo. Isso e um descaso!",iluminacao_publica
+"Por favor, tem lixo espalhado na rua na avenida principal",coleta_lixo
+"Olá, a rua inteira fica no escuro à noite perto da padaria há mais de um mês. Obrigado.",iluminacao_publica
+"por favor, pedido de remoção de árvore morta na viela desde segunda.",poda_arvore
+gostaria de informar que pedido de cata-bagulho em frente ao número!,coleta_lixo
+"Prezados, a rua precisa de recapeamento na minha rua desde segunda. Obrigado.",buraco_pavimentacao
+"Ola, a faixa de pedestre esta apagada perto do ponto de onibus desde segunda. Obrigado.",transito_sinalizacao
+venho reclamar que o lixo está acumulado na calçada em frente à igreja. moradores pedem providência.,coleta_lixo
+"olá, a placa de pare caiu na praça do bairro. moradores pedem providência.",transito_sinalizacao
+venho reclamar que o lixo não é recolhido há uma semana na esquina de novo. moradores pedem providência.,coleta_lixo
+"Boa tarde, a luminária do poste quebrou na praça do bairro já faz tempo. Isso é um descaso!",iluminacao_publica
+Venho reclamar que trocar a lampaad do poste na praca do bairro faz quinze dias!,iluminacao_publica
+"Prezados, está vazando água na rua ao lado do mercado",agua_esgoto
+Gostaria de informar que pedido de corte de árvore na minha rua há uma semana. Obrigado.,poda_arvore
+"Ola, a rua precisa de recapeamento na praca do bairro ha mais de um mes. Ja reclamei antes.",buraco_pavimentacao
+"por favor, carros estacionados em fila dupla na rua de tras ja faz tempo",transito_sinalizacao
+o lixo está acumulado na calçada ao lado do mercado há uma semana. isso é um descaso!,coleta_lixo
+venho reclamar que o lixo não é recolhido há uma semana há mais de um mês. já reclamei antes.,coleta_lixo
+"Bom ida, a luminária do poste quebrou na praça do bairro há uma semana",iluminacao_publica
+Pedido de corte de árvore perto da padaria desde segunda,poda_arvore
+"Prezados, a luz do poste fica acendendo e apagando perto da padaria desde ontem",iluminacao_publica
+"boa tarde, os galhos estão tapando a placa ao lado do mercado já faz tempo. já reclamei antes.",poda_arvore
+"Ola, o farol esta com tempo muito curto na viela faz quinze dias. Moradores pedem providencia.",transito_sinalizacao
+"Boa tarde, o conteiner de lixo esta cheio e com mau cheiro na esquina desde segunda.",coleta_lixo
+A placa de velocidade está virada na praça do bairro há uma semana.,transito_sinalizacao
+Vazamento no hidrometro na rua de tras. Aguardo retorno.,agua_esgoto
+"boa tarde, a raiz da arvore levantou a calcada em frente ao numero faz quinze dias. ja reclamei antes.",poda_arvore
+"Socorro, o semáforo de pedestre não abre na minha rua há uma semana",transito_sinalizacao
+"Oi, a lâmpada do poste está queimada na esquina desde ontem. Obrigado.",iluminacao_publica
+O poste fica aceso durante o dia na rua de tras ha mais de um mes.,iluminacao_publica
+"Boa tarde, a rua inteira fica no escuro a noite na minha rua ha mais de um mes. Isso e um descaso!",iluminacao_publica
+"boa tarde, esgoto correndo a céu aberto em frente à igreja já faz tempo!",agua_esgoto
+"por favor, tem uma vala aberta no meio da rua perto da padaria ha mais de um mes. isso e um descaso!",buraco_pavimentacao
+Gostaria de informar que falta placa de proibido estacionar na minha rua faz quinze dias!,transito_sinalizacao
+"Boa tarde, operação tapa-buraco não passou aqui perto do ponto de ônibus faz quinze dias. Aguardo retorno.",buraco_pavimentacao
+"por favor, a lombada esta sem pintura na avenida principal faz quinze dias",transito_sinalizacao
+"Socorro, pedido de corte de árvore na viela desde segunda!",poda_arvore
+"Oi, pedido de corte de árvore ao lado do mercado de novo. Obrigado.",poda_arvore
+"Ola, o conteiner de lixo esta cheio e com mau cheiro na rua de tras desde segunda. Obrigado.",coleta_lixo
+"Por favor, o poste está apagado há mais de um mês!",iluminacao_publica
+gostaria de informar que o semáforo está apagado na minha rua de novo. isso é um descaso!,transito_sinalizacao
+"Prezados, esgoto correndo a céu aberto na avenida principal desde ontem!",agua_esgoto
+"por favor, o semáforo de pedestre não abre na avenida principal já faz tempo!",transito_sinalizacao
+"boa tarde, a lampada do poste esta queimada ao lado do mercado faz quinez dias. isso e um descaso!",iluminacao_publica
+plantio de muda de árvore na calçada na avenida principal de novo. moradores pedem providência.,poda_arvore
+"oi, tem uma vala aberta no meio da rua na avenida principal desde segunda. isso e um descaso!",buraco_pavimentacao
+gostaria de informar que pedido de radar na avenida em frente ao nmúero já faz tempo. aguardo retorno.,transito_sinalizacao
+"Socorro, carros estacionados em fila dupla na minha rua de novo.",transito_sinalizacao
+"socorro, a faixa de pedestre está apagada na praça do bariro há mais de um mês!",transito_sinalizacao
+"olá, cano estourado jorrando água na esquina há uma semana. moradores pedem providência.",agua_esgoto
+Tem lixo espalhado na rua na esquina há mais de um mês. Já reclamei antes.,coleta_lixo
+Gostaria de informar que a tampa do bueiro sumiu na esquina já faz tempo. Isso é um descaso!,agua_esgoto
+Venho reclamar que a árvore está com cupim em frente à igreja há mais de um mês,poda_arvore
+Venho reclamar que o poste está apagado em frente à igreja faz quinze dias,iluminacao_publica
+"Socorro, tem uma vala aberta no meio da rua.",buraco_pavimentacao
+"Por favor, falta água desde ontem na praça do bairro. Isso é um descaso!",agua_esgoto
+"prezados, a faixa de pedestre esta apagada na minha rua desde ontem. ja reclamei antes.",transito_sinalizacao
+"Bom dia, abriu um buraco na rua na avenida principal já faz tempo!",buraco_pavimentacao
+venho reclamar que tem um ponto viciado de lixo no terreno em frente ao numero ja faz tempo.,coleta_lixo
+"Bom dia, tem um ponto viciado de lixo no terreno perto do ponto de ônibus desde segunda.",coleta_lixo
+"boa tarde, a placa de pare caiu na avenida principal",transito_sinalizacao
+"por favor, tem um ponto viciado de lixo no terreno perto da padaria já faz tempo. já reclamei antes.",coleta_lixo
+"Olá, o poste está apagado em frente à igreja faz quinze dias.",iluminacao_publica
+"Boa tarde, o asfalto esta todo esburacado na minha rua desde ontem. Aguardo retorno.",buraco_pavimentacao
+"Ola, o semaforo de pedestre nao abre perto do ponto de onibus ja faz tempo. Ja reclamei antes.",transito_sinalizacao
+"Prezados, a lâmpada do poste está queimada na viela desde segunda. Aguardo retorno.",iluminacao_publica
+"Socorro, jogaram entulho na esquina na avenida principal. Moradores pedem providência.",coleta_lixo
+"Socorro, a placa de velocidade está virada perto do ponto de ônibus faz quinze dias. Já reclamei antes.",transito_sinalizacao
+venho reclamar que a árvore está inclinada e pode cair perto da padaria faz quinze dias. já reclamei antes.,poda_arvore
+"socorro, a lixeira publica esta transbordando na avenida principal ha mais de um mes. ja reclamei antes.",coleta_lixo
+"Olá, o remendo do asfalto abriu de novo na rua de trás!",buraco_pavimentacao
+"bom dia, a faixa de pedestre esta apagada ja faz tempo. moradores pedem providencia.",transito_sinalizacao
+"Bom dia, falta água desde ontem perto do ponto de ônibus faz quinze dias. Isso é um descaso!",agua_esgoto
+"socorro, carros estacionados em fila dupla em frente ao número há amis de um mês",transito_sinalizacao
+"socorro, a rua está sem iluminação na esquina há mais de um mês. aguardo retorno.",iluminacao_publica
+"oi, a água chega suja na torneira desde ontem. obrigado.",agua_esgoto
+"Ola, pdeido de corte de arvore na rua de tras desde segunda",poda_arvore
+"Por favor, os galhos da árvore estão encostando nos fios em frente ao número de novo. Moradores pedem providência.",poda_arvore
+"Socorro, pedido de cata-bagulho perto do ponto de onibus faz quinze dias!",coleta_lixo
+"bom dia, a placa de velocidade está virada perto do ponto de ônibus faz quinze dias.",transito_sinalizacao
+"Por favor, vazamento no hidrômetro em frente à igreja há mais de um mês",agua_esgoto
+"olá, a rua inteira fica no escuro à noite na avenida principal",iluminacao_publica
+"oi, a coleta de lixo atrasou na esquina desde segunda. aguardo retorno.",coleta_lixo
+"Oi, precisa de lombada na rua. Aguardo retorno.",transito_sinalizacao
+"Socorro, tem buraco na pista que estoura pneu na imnha rua há mais de um mês. Aguardo retorno.",buraco_pavimentacao
+"Olá, o poste está apagado na rua de trás há mais de um mês!",iluminacao_publica
+"Oi, o paralelepípedo soltou e virou buraco na minha rua já faz tempo",buraco_pavimentacao
+venho reclamar que o asfalto está todo esburacado na rua de trás desde ontem. já reclamei antes.,buraco_pavimentacao
+a calçada está quebrada e com buracos perto do ponto de ônibus desde ontem. já reclamei antes.,buraco_pavimentacao
+"boa tarde, descarte irregular de sofa e moveis na minha rua.",coleta_lixo
+Gostaria de informar que a galeria de água pluvial entupiu há mais de um mês,agua_esgoto
+"Por favor, operação tapa-buraco não passou aqui na rua de trás desde segunda. Obrigado.",buraco_pavimentacao
+"oi, carros estacionados em fila dupla na esquina faz quinze dias.",transito_sinalizacao
+"Boa tarde, o semáforo de pedesrte não abre na avenida principal de novo. Isso é um descaso!",transito_sinalizacao
+"Oi, a guia da calçada está quebrada em frente à igreja. Já reclamei antes.",buraco_pavimentacao
+"Prezados, tem um potno viciado de lixo no terreno na viela. Aguardo retorno.",coleta_lixo
+"oi, o refletor da quadra está quiemado perto do ponto de ônibus faz quinze dias!",iluminacao_publica
+O lixo não é recolhido há uma semana em frente à igreja desde ontem.,coleta_lixo
+"Oi, a luz do poste fica acendendo e apagando ha uma semana",iluminacao_publica
+"Por favor, o paralelepipedo soltou e virou buraco em frente ao numero desde segunda. Obrigado.",buraco_pavimentacao
+"ola, a iluminacao da praca nao funciona na aevnida principal faz quinze dias. moradores pedem providencia.",iluminacao_publica
+"Ola, o caminhao de lixo nao passou perto da padaria ha uma semana. Moradores pedem providencia.",coleta_lixo
+"Bom dia, operação tapa-buraco não passou aqui faz quinze dias. Aguardo retorno.",buraco_pavimentacao
+A guia da calçada está quebrada em frente ao número há uma semana!,buraco_pavimentacao
+Gostaria de informar que o asfalto cedeu na avenida principal há uma semana. Moradores pedem providência.,buraco_pavimentacao
+"Boa tarde, abriu um buraco na rua na minha rua há mais de um mês.",buraco_pavimentacao
+"Socorro, a iluminação da praça não funciona há mais de um mês. Já reclamei antes.",iluminacao_publica
+"Prezados, vazamento no hidrometro na parca do bairro desde ontem.",agua_esgoto
+"Prezados, pedido de cata-bagulho ao lado do mercado há mais de um mês. Já reclamei antes.",coleta_lixo
+"Prezados, tem buraco na pista que estoura pneu na minha rua de novo. Moradores pedem providência.",buraco_pavimentacao
+gostaria de informar que abriu um buraco na rua desde segunda. isso é um descaso!,buraco_pavimentacao
+"bom dia, a boca de lobo está entupida de lixo na praça do bairro!",agua_esgoto
+"Por favor, a iluminação da praça não funciona em frente ao número de novo!",iluminacao_publica
+gostaria de informar que a iluminação da praça não funciona em frente à igreja há mais de um mês,iluminacao_publica
+"Oi, a calçada está quebrada e com buracos em frente ao número faz quinze dias",buraco_pavimentacao
+"boa tarde, carros estacionados em fila dupla na avenida principal já faz tempo",transito_sinalizacao
+"boa tarde, o semáforo está apagado na minha rua.",transito_sinalizacao
+"Oi, tem um buraco grande no asfalto há uma semana",buraco_pavimentacao
+"por favor, a galeria de agua pluvial entupiu perto do ponto de onibus ha mais de um mes!",agua_esgoto
+gostaria de informar que a tampa do bueiro sumiu em frente ao numero ha mais de um mes. obrigado.,agua_esgoto
+"oi, cheiro forte de esgoto na rua na avenida principal",agua_esgoto
+"boa tarde, o semáforo está apagado perto da padaria. aguardo retorno.",transito_sinalizacao
+"por favor, a coleta de lixo atrasou na minha rua. aguardo retorno.",coleta_lixo
+"Por favor, esgoto correndo a céu aberto em frente à gireja há uma semana. Aguardo retorno.",agua_esgoto
+"Boa tarde, os galhos da arvore estao encostando nos fios na rua de tras ja faz tempo!",poda_arvore
+"Boa tarde, o lixo está acumulado na calçada na praça do bairro. Obrigado.",coleta_lixo
+Venho reclamar que a galeria de água pluvial entupiu em frente ao número. Isso é um descaso!,agua_esgoto
+"Prezados, a agua chega suja na torneira na avenida principal desde segunda.",agua_esgoto
+"prezados, a placa de velocidade esta virada na praca do bairro ja faz tempo",transito_sinalizacao
+"Socorro, plantio de muda de arvore na calcada na rua de tras desde ontem.",poda_arvore
+"Por favor, a lâmpada do poste está queimada em frente à igreja desde segunda. Aguardo retorno.",iluminacao_publica
+"prezados, o lixo nao e recolhido ha uma semana perto do ponto de onibus. moradores pedem providencia.",coleta_lixo
+"boa tarde, o bueiro está entupido perto da padaria. moradores pedem providência.",agua_esgoto
+Gostaria de informar que trocar a lâmpada do poste em frente à igreja há mais de um mês!,iluminacao_publica
+"Por favor, a guia da calcada esta quebrada perto do ponto de onibus desde ontem. Obrigado.",buraco_pavimentacao
+"prezados, falta água desde ontem em frente à igreja há mais de um mês. já reclamei antes.",agua_esgoto
+"Boa tarde, o farol está com tempo muito curto perto da paadria já faz tempo. Isso é um descaso!",transito_sinalizacao
+"Boa tarde, um galho grande está pendurado desde ontem. Moradores pedem providência.",poda_arvore
+Gostaria de informar que está vazando água na rua na minha rua desde segunda. Isso é um descaso!,agua_esgoto
+Gostaria de informar que abriu um buraco na rua em frente a igreja ja faz tempo. Isso e um descaso!,buraco_pavimentacao
+Gostaria de informar que falta agua desde ontem na avenida principal.,agua_esgoto
+Cano estourado jorrando água em frente ao número desde segunda!,agua_esgoto
+"Ola, a raiz da arvore levantou a calcada na rua de tras. Aguardo retorno.",poda_arvore
+venho reclamar que o farol está com tempo muito curto perto do ponto de ônibus de novo. isso é um descaso!,transito_sinalizacao
+"oi, a lombada está sem pintura na esquina já faz tempo. aguardo retorno.",transito_sinalizacao
+"prezados, esgoto correndo a ceu aberto em frente a igreja faz quinze dia.s aguardo retorno.",agua_esgoto
+Tem buraco na pista que estoura pneu na praca do bairro de novo. Ja reclamei antes.,buraco_pavimentacao
+"Oi, a luz do poste fica acendendo e apagando na viela há uma semana",iluminacao_publica
+"Oi, a coleta seletiva não está passando em frente à igreja há uma semana",coleta_lixo
+"Prezados, a copa da árvore esát cobrindo a iluminação na minha rua há mais de um mês!",poda_arvore
+"olá, o semáforo de pedestre não abre na viela há uma semana.",transito_sinalizacao
+"Por favor, pedido de radar na avenida na praça do bairro há uma semana!",transito_sinalizacao
+"por favor, o contêiner de lixo está cheio e com mau cheiro na rua de trás de novo",coleta_lixo
+venho reclamar que tem um buraco grande no asfalto na rua de trás desde segunda. aguardo retorno.,buraco_pavimentacao
+"Socorro, os galhos da arvore estao encostando nos fios na esquina faz quinze dias. Isso e um descaso!",poda_arvore
+"Bom dia, tem lixo espalhado na rua na esquina ha uma semana",coleta_lixo
+"Oi, a árvore está inclinada e pode cair perto do ponto de ônibus desde ontem. Já reclamie antes.",poda_arvore
+"Bom dia, a galeria de água pluvial entupiu na minha rua há uma semana. Obrigado.",agua_esgoto
+"Bom dia, a coleta seletiva não está passando na praça do bairro há mais de um mês. Isso é um descaso!",coleta_lixo
+"por favor, a árvore está com cupim na minha rua há mais de um mês!",poda_arvore
+"bom dia, a luminária do poste quebrou na rua de trás faz quinze dias. moradores pedem providência.",iluminacao_publica
+venho reclamar que a iluminacao da praca nao funciona na praca do bairro ja faz tempo!,iluminacao_publica
+"Prezados, a boca de lobo esta entupida de lixo na praca do bairro ha uma semana.",agua_esgoto
+"Olá, plantio de muda de árvore na calçada na viela faz quinze dias. Isso é um descaso!",poda_arvore
+Venho reclamar que o paralelepípedo soltou e virou buraco perto do ponto de ônibus faz quinze dias. Isso é um descaso!,buraco_pavimentacao
+"por favor, o bueiro está entupido em frente à igreja de novo. obrigado.",agua_esgoto
+Venho reclamar que galhos secos caindo na calçada em frente ao número há uma semana. Aguardo retorno.,poda_arvore
+"Oi, a boca de lobo está entupida de lixo ao lado do mercado desde segunda. Isso é um descaso!",agua_esgoto
+"por favor, falta placa de proibido estacionar na minha rua faz quinze dias. ja reclamei antes.",transito_sinalizacao
+"Oi, a copa da árvore está cobrindo a iluminação na avenida principal de novo. Já reclamei antes.",poda_arvore
+Gostaria de informar que a iluminação da praça não funciona em frente ao número já faz tempo. Já reclamei antes.,iluminacao_publica
+"oi, falta água desde ontem na esquina. isso é um descaso!",agua_esgoto
+"Boa tarde, vazamento no hidrômetro na viela de novo.",agua_esgoto
+"Bom dia, a calçada está quebrada e com buracos na praça do bairro já faz tempo. Já reclamei antes.",buraco_pavimentacao
+"Boa tarde, tem uma vala aberta no meio da rua na avenida principal ha uma semana. Isso e um descaso!",buraco_pavimentacao
+venho reclamar que o poste fica aceso durante o dia na avenida principal já faz tempo,iluminacao_publica
+"oi, a galeria de água pluvial entupiu em frente ao número já faz tempo. isso é um descaso!",agua_esgoto
+"boa tarde, a luz do poste fica acendendo e apagando em frente ao número desde segunda. já reclamei antes.",iluminacao_publica
+"Oi, a boca de lobo está entupida de lixo na minha rua já faz tempo. Isso é um descaso!",agua_esgoto
+cheiro forte de esgoto na rua ao lado do mercado de novo. moradores pedem providência.,agua_esgoto
+"socorro, a rua esta sem iluminacao ha uma semana. obrigado.",iluminacao_publica
+"Boa tarde, a coleta de lixo atrasou de novo. Aguardo retorno.",coleta_lixo
+"Bom dia, o contêiner de lixo está cheio e com mau cheiro na minha rua desde ontem. Isso é um descaso!",coleta_lixo
+"Prezados, a pintura da sinalizacao sumiu na viela ja faz tempo. Obrigado.",transito_sinalizacao
+Gostaria de informar que o farol esta com tempo muito curto perto da padaria desde segunda. Obrigado.,transito_sinalizacao
+"bom dia, o refletor da quadra está queimado na rua de trás faz quinze dias!",iluminacao_publica
+"prezados, o semaforo de pedestre nao abre na minha rua ha uma semana. ja reclamei antes.",transito_sinalizacao
+"Socorro, o paralelepipedo soltou e virou buraco na esquina. Aguardo reotrno.",buraco_pavimentacao
+"Bom dia, o poste em frente de casa não acende perto da padaria desde segunda.",iluminacao_publica
+venho reclamar que o asfalto cedeu de novo,buraco_pavimentacao
+"Olá, o farol está com tempo muito curto perto do ponto de ônibus já faz tempo. Moradores pedem providência.",transito_sinalizacao
+o poste em frente de casa não acende na avenida principal há mais de um mês!,iluminacao_publica
+"Boa tarde, trocar a lâmpada do poste em frente ao número há mais de um mês!",iluminacao_publica
+Venho reclamar que plantio de muda de árvore na calçada na viela faz quinze dias!,poda_arvore
+"Boa tarde, cano estourado jorrando água ao lado do mercado desde ontem.",agua_esgoto
+"Bom dia, pedido de remoção de árvore morta ao lado do mercado já faz tempo!",poda_arvore
+"Oi, pedido de remoção de árvore morta desde segunda. Aguardo retorno.",poda_arvore
+"Olá, descarte irregular de sofá e móveis perto da padaria de novo!",coleta_lixo
+"Socorro, o refletor da quadra está queimado perto da padaria desde ontem. Isso é um descaso!",iluminacao_publica
+"Olá, a tampa do bueiro sumiu na praça do bairro há uma semana. Isso é um descaso!",agua_esgoto
+"olá, o poste está apagado na praça do bairro faz quinze dias. aguardo retorno.",iluminacao_publica
+"Socorro, a boca de lobo esta entupida de lixo na praca do bairro",agua_esgoto
+"Bom dia, a lampada do poste esta queimada na viela ha mais de um mes. Aguardo retorno.",iluminacao_publica
+Gostaria de informar que a lombada está sem pintura na rua de trás faz quinze dias. Moradores pedem providência.,transito_sinalizacao
+"Socorro, o farol esta com tempo muito curto em frente ao numero ja faz tempo.",transito_sinalizacao
+"Bom dia, pedido de corte de árvore na esquina de novo. Aguardo retorno.",poda_arvore
+"Prezados, o bueiro está entupido há uma semana",agua_esgoto
+"Boa tarde, o semaforo esta apagado na rua de tras de novo. Ja reclamei antes.",transito_sinalizacao
+"olá, tem um buraco grande no asfalto na esquina de novo. aguardo retorno.",buraco_pavimentacao
+"Por favor, tem buraco na pista que estoura pneu perto do ponto de ônibus.",buraco_pavimentacao
+"Olá, o lixo não é recolhido há uma semana em frente ao número desde ontem. Isso é um descaso!",coleta_lixo
+"oi, o contêiner de lixo está cheio e com mau cheiro na esquina há uma semana",coleta_lixo
+"Por favor, o asfalto cedeu na rua de trás desde ontem. Moradores pedem providência.",buraco_pavimentacao
+"Olá, o poste em frente de casa não acende na praça do bairro há mais de um mês. Moradores pedem providência.",iluminacao_publica
+venho reclamar que os galhos da arvore estao encostando nos fios na viela desde ontem,poda_arvore
+"Prezados, a placa de velocidade esta vriada em frente a igreja desde segunda.",transito_sinalizacao
+"boa tarde, descarte irregular de sofá e móveis em frente à igreja já faz tempo.",coleta_lixo
+"oi, a agua chega suja na torneira na avenida principal faz quinze dias. moradores pedem providencia.",agua_esgoto
+venho reclamar que tem uma vala aberta no meio da rua na praça do bairro desde segunda. moradores pedem providência.,buraco_pavimentacao
+"boa tarde, tem uma vala aberta no meio da rua perto do ponto de ônibus há uma semana.",buraco_pavimentacao
+Venho reclamar que tem um ponto viciado de lixo no terreno na rua de trás já faz tempo,coleta_lixo
+Venho reclamar que a lombada esta sem pintura na rua de tras desde ontem.,transito_sinalizacao
+"Socorro, o esgoto esta transbordando na minha rua faz quinze dias. Moradores pedem providencia.",agua_esgoto
+"bom dia, galhos secos caindo na calçada na praça do bairro já faz tempo. isso é um descaso!",poda_arvore
+"Prezados, galhos secos caindo na calçada na esquina de novo. Já reclamei antes.",poda_arvore
+"prezados, plantio de muda de árvore na calçada na esquina desde ontem",poda_arvore
+"Por favor, um galho grande está pendurado em frente ao número faz quinze dias. Moradores pedem providência.",poda_arvore
+Gostaria de informar que a pintura da sinalização sumiu perto da padaria desde segund.a Aguardo retorno.,transito_sinalizacao
+"Por favor, esgoto correndo a ceu aberto na viela. Moradores pedem providencia.",agua_esgoto
+"Boa tarde, o conteiner de lixo esta cheio e com mau cheiro na minha rua desde ontem.",coleta_lixo
+"Socorro, a luz do poste fica acendendo e apagando na minha rua já faz tempo. Obrigado.",iluminacao_publica
+"boa tarde, a coleta seletiva nao esta passando em frente a igreja ja faz tempo. aguardo retorno.",coleta_lixo
+Gostaria de informar que pedido de radar na avenida na rua de trás já faz tempo. Aguardo retorno.,transito_sinalizacao
+A rua precisa de recapeamento perto da padaria há uma semana!,buraco_pavimentacao
+venho reclamar que esgoto correndo a céu aberto ao lado do mercado faz quinze dias. obrigado.,agua_esgoto
+cano estourado jorrando água há uma semana. isso é um descaso!,agua_esgoto
+"lOá, o bueiro está entupido na avenida principal desde segunda. Obrigado.",agua_esgoto
+Gostaria de informar que falta placa de proibido estacionar na rua de trás. Já reclamei antes.,transito_sinalizacao
+"Socorro, tem um buraco grande no asfalto. Obrigado.",buraco_pavimentacao
+Gostaria de informar que a arvore precisa de poda na praca do bairro desde ontem.,poda_arvore
+O poste está apagado na rua de trás faz quinze dias. Obrigado.,iluminacao_publica
+"Olá, esgoto correndo a céu aberto na rua de trás de novo",agua_esgoto
+"Socorro, a rua precias de recapeamento em frente à igreja desde ontem. Obrigado.",buraco_pavimentacao
+"Por favor, o bueiro está entupido perto da padaria desde segunda. Já reclamei antes.",agua_esgoto
+"Boa tarde, os galhos estão tapando a placa na viela desde ontem.",poda_arvore
+"Socorro, cheiro forte de esgoto na rua perto do ponto de ônibus. Moradores pedem providência.",agua_esgoto
+Venho reclamar que o esgoto está trnasbordando em frente à igreja há uma semana. Moradores pedem providência.,agua_esgoto
+"Bom dia, um galho grande está pendurado na viela desde segunda. Já reclamei antes.",poda_arvore
+o refletor da quadra está queimado em frente ao número faz quinze dias. obrigado.,iluminacao_publica
+"socorro, precisa de lombada na rua na rua de tras ha uma semana. isso e um descaso!",transito_sinalizacao
+"Prezados, o semáforo de pedestre não abre na esquina desde segunda. Moradores pedem providência.",transito_sinalizacao
+"Oi, a rua precisa de recapeamento na praça do bairro. Obrigado.",buraco_pavimentacao
+"Olá, abriu um buraco na rua na minha rua. Já reclamei antes.",buraco_pavimentacao
+"Bom dia, jogaram entulho na esquina na praça do bairro há mais de um mês",coleta_lixo
+Gostaria de informar que a árvore está inclinada e pode cair perto do potno de ônibus!,poda_arvore
+"Bom dia, o poste está apagado perto da padaria desde ontem. Moradores pedem providência.",iluminacao_publica
+"Boa tarde, o paralelepípedo soltou e virou buraco na viela já faz tempo. Isso é um descaso!",buraco_pavimentacao
+"socorro, falta água desde ontem na rua de trás de novo. isso é um descaso!",agua_esgoto
+"Olá, o paralelepípedo soltou e virou buraco na praça do bairro desde segunda. Já reclamei antes.",buraco_pavimentacao
+"por favor, o lixo nao e recolhido ha uma semana na esquina desde ontem!",coleta_lixo
+"Olá, tem um buraco grande no asfalto há mais de um mês!",buraco_pavimentacao
+"Prezados, precisa de lombada na rua há uma semana!",transito_sinalizacao
+a rua inteira fiac no escuro à noite na praça do bairro há mais de um mês.,iluminacao_publica
+"Bom dia, falta placa de proibido estacionar na viela desde segunda!",transito_sinalizacao
+"Bom dia, a arvore esta inclinada e pode cair em frente a igreja de novo. Ja reclamei antes.",poda_arvore
+"Prezados, tem buraco na pista que estoura pneu na viela faz quinze dias!",buraco_pavimentacao
+Venho reclamar que trocar a lâmpada do poste em frente à igreja. Moradores pedem providência.,iluminacao_publica
+Gostaria de informar que o lixo está acumulado na calçada em frente à igreja faz quinze dias. Obrigado.,coleta_lixo
+"Ola, a coleta de lixo atrasou na esquina ja faz tempo. Isso e um descaso!",coleta_lixo
+Venho reclamar que tem um ponto viciado de lixo no terreno ao lado do mercado já faz tempo.,coleta_lixo
+"Olá, a galeria de água pluvial entupiu na avenida principal faz quinze dias. Isso é um descaso!",agua_esgoto
+"por favor, a rua precisa de recapeamento em frente a igreja ha mais de um mes!",buraco_pavimentacao
+Gostaria de informar que pedido de radar na avenida na praça do bairro,transito_sinalizacao
+Gostaria de informar que o caminhão de lixo não passou desde ontem. Obrigado.,coleta_lixo
+"Por favor, o esgoto está transbordando perto do ponto de ônibus. Isso é um descaso!",agua_esgoto
+"olá, o caminhão de lixo não passou em frente à igreja desde segunda. já reclamei antes.",coleta_lixo
+"Prezados, a árvore está inclinada e pode cair perto do ponto de ônibus.",poda_arvore
+"bom dia, a placa de velocidade está virada em frente à igreja desde ontem.",transito_sinalizacao
+"boa tarde, a guia da calcada esta quebrada na rua de tras ha uma semana. ja reclamei antes.",buraco_pavimentacao
+"Prezados, a coleta seletiva nao esta passando na rua de tras desde segunda!",coleta_lixo
+"Prezados, pedido de radar na avenida na minha rua desde segunda. Moradores pedem providência.",transito_sinalizacao
+"Oi, o poste fica aceso durante o dia na avenida principal há uma semana. Já reclamei antes.",iluminacao_publica
+"Socorro, a placa de pare caiu desde ontem!",transito_sinalizacao
+"Prezados, a copa da árvore está cobrindo a iluminação na praça do bairro desde ontem. Moradores pedem providência.",poda_arvore
+"Olá, precisa de lombada na rua na esquina há mais de um mês!",transito_sinalizacao
+"Prezados, trocar a lampada do poste na esquina ha uma semana!",iluminacao_publica
+"por favor, a galeria de água pluvial entupiu em frente à igreja desde ontem. isso é um descaso!",agua_esgoto
+"Bom dia, o lixo nao e recolhido ha uma semana perto do ponto de onibus. Isso e um descaso!",coleta_lixo
+"por favor, a rua precisa de recapeamento na minha rua desde segunda. isso e um descaso!",buraco_pavimentacao
+Gostaria de informar que tem buraco na pista que estoura pneu em frente ao número faz quinze dias. Isso é um descaso!,buraco_pavimentacao
+"por favor, a galeria de água pluvial entupiu perto da padaria. moradores pedem providência.",agua_esgoto
+"Oi, precisa de lombada na rua na minha rua faz quinze dias. Moradores pedem providência.",transito_sinalizacao
+"olá, galhos secos caindo na calçada na viela de novo. já reclamei antes.",poda_arvore
+"Por favor, o lixo esta acumulado na calcada em frente ao numero faz quinze dias!",coleta_lixo
+"ola, a copa da arvore esta cobrindo a iluminacao em frente ao numero. isso e um descaso!",poda_arvore
+"Prezados, a lombada esta sem pintura em frente ao numero ja faz tempo. Moradores pedem providencia.",transito_sinalizacao
+"Prezados, pedido de corte de árvore na minha rua faz quinze dias. Já reclamei antes.",poda_arvore
+"boa tarde, está vazando água na rua perto do ponto de ônibus.",agua_esgoto
+"Prezados, os galhos estão tapando a placa perto da padaria. Aguardo retorno.",poda_arvore
+três postes seguidos estão sem luz perto da padaria de novo. aguardo retorno.,iluminacao_publica
+"prezados, a calçada está quebrada e com buracos na minha rua desde segunda. moradores pedem providência.",buraco_pavimentacao
+"Prezados, está vazando água na rua perto da padaria de novo. Moradores pedem providência.",agua_esgoto
+"Oi, plantio de muda de arvore na calcada em frente ao numero desde ontem!",poda_arvore
+"Olá, um galho grande está pendurado na viela faz quinze dias. Aguardo retorno.",poda_arvore
+"Prezados, descarte irregular de sofa e moveis na rua de tras ja faz tempo",coleta_lixo
+"bom dia, tres postes seguidos estao sem luz perto da padaria ha mais de um mes!",iluminacao_publica
+"prezados, a luz do poste fica acendendo e apagando na avenida principal há mais de um mês!",iluminacao_publica
+"socorro, tem um buraco grande no asfalto na avenida principal desde segunda. obrigado.",buraco_pavimentacao
+"boa tarde, plantio de muad de árvore na calçada na minha rua desde ontem. obrigado.",poda_arvore
+"Bom dia, a galeria de água pluvial entupiu na esquina desde segunda. Moradores pedem providência.",agua_esgoto
+Tem lixo espalhado na rua ao lado do mercado desde ontem. Moradores pedem providência.,coleta_lixo
+"Prezados, falta agua desde ontem perto da padaria ha uma semana. Obrigado.",agua_esgoto
+Trocar a lâmpada do poste na esquina já faz tempo. Já reclamei antes.,iluminacao_publica
+"Olá, pedido de radar na avenida na avenida principal. Já reclamei antes.",transito_sinalizacao
+Venho reclamar que a galeria de água pluvial entupiu ao lado do mercado há uma semana,agua_esgoto
+"Boa tarde, falta água desde ontem em frente ao número desde ontem",agua_esgoto
+"Prezados, jogaram entulho na esquina na esquina. Obrigado.",coleta_lixo
+"Boa tarde, galhos secos caindo na calcada na viela ja faz tempo. Isso e um descaso!",poda_arvore
+"Por favor, a copa da arvore esta cobrindo a iluminacao na rua de tras ha uma semana.",poda_arvore
+"Bom dia, o lixo está acumulado na calçada na esquina desde ontem. Moradores pedem providência.",coleta_lixo
+"Oi, jogaram entulho na esquina perto do ponto de ônibus desde segunda!",coleta_lixo
+"Socorro, a boca de lobo está entupida de lixo em frente à igreja desde segunda. Moradores pedem providência.",agua_esgoto
+Gostaria de informar que a luz do poste fica acendendo e apagando na avenida principal já faz tempo. Moradores pedem providência.,iluminacao_publica
+"Por favor, a lombada está sem pintura na rua de trás desde segunda. Moradores pedem providência.",transito_sinalizacao
+Venho reclamar que pedido de cata-bagulho em frente ao número desde ontem. Moradores pedem providência.,coleta_lixo
+"Socorro, a copa da árvore está cobrindo a iluminação. Obrigado.",poda_arvore
+"prezados, a raiz da árvore levantou a calçada perto do ponto de ônibus há uma semana. moradores pedem providência.",poda_arvore
+"Socorro, o asfalto esta todo esburacado ao lado do mercado de novo.",buraco_pavimentacao
+Venho reclamar que a rua precisa de recapeamento na praça do bairro desde segunda. Já reclamei antes.,buraco_pavimentacao
+Gostaria de informar que pedido de radar na avenida há mais de um mês. Moradores pedem providência.,transito_sinalizacao
+"oi, precisa de lombada na rua na minha rua. obrigado.",transito_sinalizacao
+"prezados, trocar a lâmpada do poste perto do ponto de ônibus já faz tempo. aguardo retorno.",iluminacao_publica
+Venho reclamar que trocar a lâmpada do poste na avenida principal há uma semana!,iluminacao_publica
+Gostaria de informar que tem uma vala aberta no meio da rua na avenida principal de novo. Isso é um descaso!,buraco_pavimentacao
+"Por favor, o lixo está acumulado na calçada na esquina de novo!",coleta_lixo
+"ola, a iluminacao da praca nao funciona ao lado do mercado desde segunda.",iluminacao_publica
+"Socorro, a árvore está inclinada e pode cair ao lado do mercado há uma semana. Já reclamei antes.",poda_arvore
+"Prezados, o lixo está acumulado na calçada em frente à igreja desde segunda.",coleta_lixo
+"Prezados, a rua precisa de recapeamento faz quinze dias",buraco_pavimentacao
+gostaria de informar que a faixa de pedestre está apagada ao lado do mercado. aguardo retorno.,transito_sinalizacao
+"Boa tarde, pedido de radar na avenida perto do ponto de onibus desde ontem. Aguardo retorno.",transito_sinalizacao
+"Por favor, a árvore está com cupim em frente à igreja já faz tempo. Aguardo retorno.",poda_arvore
+"Olá, o semáforo de pedestre não abre perto do ponto de ônibus faz quinze dias. sIso é um descaso!",transito_sinalizacao
+"Oi, esgoto correndo a céu aberto na avenida principal já faz tempo. Isso é um descaso!",agua_esgoto
+"oi, a lâmpada do poste está queimada na avenida principal há mais de um mês",iluminacao_publica
+Gostaria de informar que a calçada está quebrada e com buracos em frente à igreja. Obrigado.,buraco_pavimentacao
+"Oi, falta placa de proibido estacionar em frente ao número já faz tempo. Isso é um descaso!",transito_sinalizacao
+"Ola, pedido de cata-bagulho em frente a igreja ha uma semana!",coleta_lixo
+"prezados, a pintura da sinalização sumiu na avenida principal desde segunda. aguardo retorno.",transito_sinalizacao
+"prezados, a boca de lobo está entupida de lixo em frente ao número de novo. já reclamei antes.",agua_esgoto
+"Socorro, o lixo não é recolhido há uma semana na avenida principal já faz tempo. Moradores pedem providência.",coleta_lixo
+Venho reclamar que o lixo está acumulado na calçada perto do ponto de ônibus já faz tempo. Moradores pedem providência.,coleta_lixo
+"Bom dia, o caminhão de lixo não passou na minha rua há mais de um mês. Aguardo retorno.",coleta_lixo
+operação tapa-buraco não passou aqui na rua de trás de novo. obrigado.,buraco_pavimentacao
+"bom dia, pedido de remoção de árvore morta na avenida principal faz quinze dias. moradores pedem providência.",poda_arvore
+"Por favor, o contêiner de lixo está cheio e com mau cheiro em frente ao número há mais de um mês.",coleta_lixo
+"Ola, o remendo do asfalto abriu de novo ao lado do mercado",buraco_pavimentacao
+Venho reclamar que a pintura da sinalizacao sumiu na viela ha uma semana. Aguardo retorno.,transito_sinalizacao
+"Socorro, o lixo está acumulado na calçada ao lado do mercado já faz tempo",coleta_lixo
+"Boa tarde, a iluminação da praça não funciona na minha rua. Já reclamei antes.",iluminacao_publica
+gostaria de informar que a lixeira pública está transbordando na viela já faz tempo. aguardo retorno.,coleta_lixo
+"Ola, a rua precisa de recapeamento perto do ponto de onibus desde segunda. Obrigado.",buraco_pavimentacao
+"Bom dia, o poste em frente de caas não acende na minha rua já faz tempo!",iluminacao_publica
+"oi, falta placa de proibido estacionar ao lado do mercado desde ontem. já reclamei antes.",transito_sinalizacao
+"Prezados, tem buraco na pista que estoura pneu na viela desde ontem. Isso e um descaso!",buraco_pavimentacao
+Gostaria de informar que pedido de corte de árvore na praça do bairro já faz tempo. Já reclamei antes.,poda_arvore
+gostaria de informar que a coleta seletiva não está passando na viela desde segunda. isso é um descaso!,coleta_lixo
+"Socorro, cano estourado jorrando água há mais de um mês. Moradores pedem providência.",agua_esgoto
+oGstaria de informar que o asfalto cedeu desde ontem. Obrigado.,buraco_pavimentacao
+"Prezados, o asfalto cedeu na praca do bairro ja faz tempo!",buraco_pavimentacao
+"Olá, descarte irregular de sofá e móveis na rua de trás há uma semana. Aguardo retorno.",coleta_lixo
+pedido de corte de árvoer na avenida principal. moradores pedem providência.,poda_arvore
+"Boa tarde, pedido de radar na avenida na esquina há uma semana",transito_sinalizacao
+"Socorro, pedido de corte de árvore na minha rua há uma semana!",poda_arvore
+venho reclamar que a tampa do bueiro sumiu ao lado do mercado. já reclamei antes.,agua_esgoto
+"Por favor, a lombada está sem pnitura. Obrigado.",transito_sinalizacao
+"Oi, pedido de corte de árvore na minha rua. Moradores pedem providência.",poda_arvore
+"Socorro, a copa da árvore está cobrindo a iluminação na viela há mais de um mês. Já reclamei antes.",poda_arvore
+"boa tarde, está vazando água na rua na esquina de novo.",agua_esgoto
+a arvore esta com cupim na praca do bairro ha uma semana.,poda_arvore
+"Bom dia, o semáforo de pedestre não abre em frente ao número desde segunda. Isso é um descaso!",transito_sinalizacao
+Venho reclamar que precisa de lombada na rua em frente ao número. Obriagdo.,transito_sinalizacao
+"Boa tarde, falta placa de proibido estacionar na praca do bairro ha uma semana. Ja reclamei antes.",transito_sinalizacao
+"Por favor, o lixo não é recolhido há uma semana na avenida principal desde segunda. Moradores pedem providência.",coleta_lixo
+"bom dia, jogaram entulho na esquina perto da padaria desde segunda. moradores pedem providencia.",coleta_lixo
+"oi, os galhos da arvore estao encostando nos fios perto da padaria de novo. moradores pedem providencia.",poda_arvore
+"boa tarde, o lixo está acumulado na calçada ao lado do mercado há uma semana",coleta_lixo
+"Prezados, o asfalto está todo esburacado ao lado do mercado de novo. Moradores pedem providência.",buraco_pavimentacao
+"socorro, a rua inteira fica no escuro a noite na viela ja faz tempo. obrigado.",iluminacao_publica
+"Prezados, o paralelepípedo soltou e virou buraco perto da padaria de novo. Já reclamei antes.",buraco_pavimentacao
+"Bom dia, a iluminação da praça não funciona perto da padaria de novo. Aguardo retorno.",iluminacao_publica
+"Bom dia, jogaram entulho na esquina na avenida principal faz quinze dias. Já reclamei antes.",coleta_lixo
+"Oi, a calçada está quebrada e com buracos na esquina.",buraco_pavimentacao
+"Boa tarde, tem buraco na pista que estoura pneu na esquina desde segunda.",buraco_pavimentacao
+o paralelepípedo soltou e virou buraco na minha rua desde segunda.,buraco_pavimentacao
+"Boa tarde, o bueiro está entupido ao lado do mercado desde segunda!",agua_esgoto
+"Socorro, o poste fica aceso durante o dia na esquina faz quinze dias. Isso e um descaso!",iluminacao_publica
+"Bom dia, descarte irregular de sofá e móveis perto da padaria há uma semana. Moradores pedem providência.",coleta_lixo
+"bom dia, a placa de velocidade está virada perto do ponto de ônibus de novo. obrigado.",transito_sinalizacao
+"Boa tarde, a copa da árvore está cobrindo a iluminação na avenida principal há mais de um mês. Obrigado.",poda_arvore
+"Boa tarde, a boca de lobo está entupida de lixo na rua de trás de novo. Aguardo retorno.",agua_esgoto
+A lixeira pública está transbordando já faz tempo. Isso é um descaso!,coleta_lixo
+"Por favor, o poste em frente de casa não acende na esquina desde segunda. Obrigado.",iluminacao_publica
+"socorro, precisa de lombada na rua perto do ponto de onibus faz quinze dias. ja recalmei antes.",transito_sinalizacao
+"Socorro, a lâmpada do poste está queimada na avenida principal há uma semana. Já reclamei antes.",iluminacao_publica
+A placa de velocidade esta virada ao lado do mercado ha mais de um mes. Isso e um descaso!,transito_sinalizacao
+"Por favor, a boca de lobo esta entupida de lixo perto do ponto de onibus!",agua_esgoto
+gostaria de informar que a coleta de lixo atrasou na avenida principal há uma semana. isso é um descaso!,coleta_lixo
+"Socorro, um galho grande está pendurado na avenida principal desde ontem. Isso é um descaso!",poda_arvore
+gostaria de informar que o bueiro esat entupido na viela ha mais de um mes. ja reclamei antes.,agua_esgoto
+"Boa tarde, o remendo do asfalto abriu de novo na praça do bairro desde ontem. Isso é um descaso!",buraco_pavimentacao
+a guia da calçada está quebrada em frente ao número já faz tempo. moradores pedem providência.,buraco_pavimentacao
+"Por favor, o asfalto está todo esburacado na avenida principal desde segunda. Isso é um descaso!",buraco_pavimentacao
+"Socorro, tem uma vala aberta no meio da rua em frente ao número desde ontem. Obrigado.",buraco_pavimentacao
+Gostaria de informar que a lixeira publica esta transbordando na minha rua ha uma semana. Isso e um descaso!,coleta_lixo
+"olá, a árvore está inclinada e pode cair na rua de trás desde segunda. já reclamei antes.",poda_arvore
+"Por favor, a árvore precisa de poda desde segunda.",poda_arvore
+"Olá, o farol está com tempo muito curto em frente ao número faz quinze dias. Obrigado.",transito_sinalizacao
+"Socorro, a calçada está quebrada e com buracos na rua de trás há uma semana. Obrigado.",buraco_pavimentacao
+"Bom dia, o semáforo de pedestre não abre na viela desde segunda!",transito_sinalizacao
+A árvore está inclinada e pode cair na rua de trás há uma semana. Já reclamei antes.,poda_arvore
+"Por favor, o lixo não é recolhido há uma semana na viela faz quinze dias.",coleta_lixo
+"bom dia, o refletor da quadra está queimado desde segunda. moradores pedem providência.",iluminacao_publica
+"Prezados, carros estacionados em fila dupla em frente a igreja ha uma semana.",transito_sinalizacao
+"Prezados, a lixeira publica esta transbordando em frente a igreja ha mais de um mes.",coleta_lixo
+Gostaria de informar que a lixeira pública está transbordando ao lado do mercado já faz tempo. Aguardo retorno.,coleta_lixo
+Venho reclamar que a faixa de pedestre esta apagada perto da padaria de novo!,transito_sinalizacao
+"Por favor, a boca de lobo está entupida de lixo na rua de trás",agua_esgoto
+Jogaram entulho na esquina em frente ao número faz quinze dias. Moradores pedem providência.,coleta_lixo
+"prezados, a coleta de lixo atrasou ao lado do mercado desde ontem. já reclamei antes.",coleta_lixo
+venho reclamar que a galeria de agua pluvial entupiu na avenida principal desde segunda. ja reclamei antes.,agua_esgoto
+"Socorro, trocar a lâmpada do poste em frente à igreja desde ontem. Moradores pedem providência.",iluminacao_publica
+O poste setá apagado na minha rua desde ontem,iluminacao_publica
+"Olá, a luz do poste fica acendendo e apagando na viela já faz tempo. Já reclamei antes.",iluminacao_publica
+"Por favor, tem buraco na pista que estoura pneu em frente ao número de novo. Já reclamei antes.",buraco_pavimentacao
+Gostaria de informar que o refletor da quadra esta queimado em frente ao numero ha uma semana. Obrigado.,iluminacao_publica
+"por favor, o paralelepípedo soltou e virou buraco na praça do bairro desde ontem. isso é um descaso!",buraco_pavimentacao
+"prezados, o remendo do asfalto abriu de novo perto do ponto de onibus faz quinze dias. aguardo retorno.",buraco_pavimentacao
+Gostaria de informar que a tampa do bueiro sumiu na rua de trás há mais de um mês!,agua_esgoto
+Gostaria de informar que a arvore esta com cupim na avenida principal de novo.,poda_arvore
+"Prezados, a lampada do poste esta queimada na avenida principal de novo. Ja reclamei antes.",iluminacao_publica
+"Boa tarde, o poste em frente de casa nao acende na rua de tras desde segunda. Ja reclamei antes.",iluminacao_publica
+"Prezados, falta placa de proibido estacionar na rua de trás desde segunda!",transito_sinalizacao
+"por favor, tem lixo espalhado na rua em frente a igreja desde segunda. moradores pedem providencia.",coleta_lixo
+"Prezados, a árvore está com cupim ao lado do mercado de novo. Moradores pedem providência.",poda_arvore
+Gostaria de informar que a placa de velocidade está virada em frente ao número há uma semana. Isso é um descaso!,transito_sinalizacao
+Gostaria de informar que os galhos da arvore estao encostando nos fios em frente ao numero de novo. Ja reclamei antes.,poda_arvore
+"Por favor, o contêiner de lixo está cheio e com mau cheiro perto do ponto de ônibus desde ontem!",coleta_lixo
+"oi, a árvore está com cupim na praça do bariro há mais de um mês. isso é um descaso!",poda_arvore
+A iluminação da praça não funciona na rua de trás desde segunda. Aguardo retorno.,iluminacao_publica
+"Socorro, a coleta seletiva não está passando em frente à igreja faz quinze dias",coleta_lixo
+Gostaria de informar que a árvore precisa de poda na rua de trás há uma semana,poda_arvore
+A água chega suja na torneira perto da padaria há mais de um mês. Já reclamei antes.,agua_esgoto
+"Por favor, a pintura da sinalizacao sumiu ao lado do mercado desde ontem.",transito_sinalizacao
+Gostaria de informar que a boca de lobo está entupida de lixo perto do ponto de ônibus.,agua_esgoto
+"Boa tarde, o refletor da quadra está queimado na esquina.",iluminacao_publica
+"prezados, pedido de radar na avenida na viela.",transito_sinalizacao
+"Socorro, jogaram entulho na esquina em frente ao numero. Moradores pedem providencia.",coleta_lixo
+venho reclamar que operação tapa-buraco não passou aqui ao lado do mercado há uma semana. moradores pedem providência.,buraco_pavimentacao
+A faixa de pedestre esta apagada na minha rua faz quinze dias. Aguardo retoron.,transito_sinalizacao
+"socorro, a lombada está sem pintura na mniha rua faz quinze dias. obrigado.",transito_sinalizacao
+"Boa tarde, o asfalto cedeu em frente à igreja desde segunda. Aguardo retorno.",buraco_pavimentacao
+"Oi, a coleta de lixo atrasou na esquina ha uma semana. Ja reclamei antes.",coleta_lixo
+"Por favor, trocar a lâmpada do poste na rua de trás há uma semana. Isso é um descaso!",iluminacao_publica
+"Socorro, o caminhão de lixo não passou na rua de trás há uma semana!",coleta_lixo
+"Bom dia, o esgoto esta transbordando na minha rua ja faz tempo. Isso e um descaso!",agua_esgoto
+Venho reclamar que abriu um buraco na rua perto da padaria desde ontem. Ja reclamei antes.,buraco_pavimentacao
+"Por favor, a raiz da árvore levantou a calçada na minha rua há uma semana.",poda_arvore
+A água chega suja na torneira perto da padaria há uma semana. Aguardo retorno.,agua_esgoto
+"Por favor, pedido de cata-bagulho ao lado do mercado há mais de um mês. Obrigado.",coleta_lixo
+Gostaria de informar que trocar a lâmpada do poste em frente ao número faz quinze dias. Moradores pedem providência.,iluminacao_publica
+O asfalto cedeu na esquina há uma semana.,buraco_pavimentacao
+"por favor, o poste está apagado faz quinze dias. obrigado.",iluminacao_publica
+O poste fica aceso durante o dia em frente ao número há mais de um mês. Obrigado.,iluminacao_publica
+Venho reclamar que três postes seguidos estão sem luz já faz tempo.,iluminacao_publica
+"boa tarde, a boca de lobo está entupida de lixo na avenida principal já faz tempo.",agua_esgoto
+Gostaria de informar que a luz do poste fica acendendo e apagando na viela faz quizne dias. Moradores pedem providencia.,iluminacao_publica
+"Por favor, o semáforo está apagado há uma semana. Isso é um descaso!",transito_sinalizacao
+Venho reclamar que um galho grande está pendurado na praça do bairro. Isso é um descaso!,poda_arvore
+venho reclamar que o refletor da quadra está queimado na praça do bairro há uma semana. moradores pedem providência.,iluminacao_publica
+"por favor, a rua inteira fica no escuro a noite perto do ponto de onibus. aguardo retorno.",iluminacao_publica
+Gostaria de informar que o semáforo está apagado em frente ao número já faz tempo. Já reclamei antes.,transito_sinalizacao
+"Olá, tem um buraco grande no asfalto em frente ao número há mais de um mês. Aguardo retorno.",buraco_pavimentacao
+"Prezados, a rua está sem iluminação na viela há uma semana. Moradores pedem providência.",iluminacao_publica
+"socorro, o semáforo de pedestre não abre já faz tempo.",transito_sinalizacao
+"Boa tarde, pedido de cata-bagulho na esquina desde ontem. Ja reclaemi antes.",coleta_lixo
+Operação tapa-buraco não passou aqui perto do ponto de ônibus há mais de um mês,buraco_pavimentacao
+"Olá, falta água desde ontem na esquina desde ontem. Moardores pedem providência.",agua_esgoto
+"oi, a galeria de água pluvial entupiu ao lado do mercado. já reclamei antes.",agua_esgoto
+Gostaria de informar que o semáforo de pedestre não abre perto do ponto de ônibus.,transito_sinalizacao
+"Boa tarde, o asfalto está todo esburacado na rua de trás desde segunda. Isso é um desacso!",buraco_pavimentacao
+Vazamento no hidrometro na esquina desde segunda,agua_esgoto
+Gostaria de informar que o lixo não é recolhido há uma semana na avenida principal há mais de um mês. Já reclamei antes.,coleta_lixo
+"Olá, descarte irregular de sofá e móveis na esquina desde segunda. Já reclamei antes.",coleta_lixo
+"oi, pedido de corte de arvore perto do ponto de onibus de novo. obrigado.",poda_arvore
+"Socorro, a lampada do poste esta queimada na viela desde segunda",iluminacao_publica
+"prezados, falta placa de proibido estacionar em frente ao número há mais de um mês. aguardo retorno.",transito_sinalizacao
+Venho reclamar que tem uma vala aberta no meio da rua ao lado do mercado desde ontem.,buraco_pavimentacao
+Venoh reclamar que operacao tapa-buraco nao passou aqui na viela faz quinze dias. Isso e um descaso!,buraco_pavimentacao
+"Prezados, a placa de velocidade está virada na rua de trás há mais de um mês",transito_sinalizacao
+Venho reclamar que o asfalto cedeu na rua de trás já faz tempo. Moradores pedem providência.,buraco_pavimentacao
+Venho reclamar que carros estacionados em fila dupla na minha rua desde ontem. Isso é um descaso!,transito_sinalizacao
+"Socorro, a água cheag suja na torneira na viela.",agua_esgoto
+"bom dia, cano estourado jorrando água na praça do bairro já faz tempo. moradores pedem providência.",agua_esgoto
+"prezados, está vazando água na rua em frente à igreja há mais de um mês. aguardo retorno.",agua_esgoto
+"Por favor, a guia da calçada está quebrada na viela. Obrigado.",buraco_pavimentacao
+"Oi, cheiro forte de esgoto na rua perto do ponto de ônibus desde ontem. Aguardo retorno.",agua_esgoto
+"Oi, pedido de corte de árvore perto do ponto de ônibus.",poda_arvore
+O bueiro está entupido perto do ponto de ônibus há uma semana. Aguardo retorno.,agua_esgoto
+Gostaria de informar que a rua inteira fica no escuro à noite na minha rua desde ontem. Isso é um descaso!,iluminacao_publica
+gostaria de informar que pedido de corte de árvore perto da padaria desde ontem.,poda_arvore
+"Prezados, tem um buraco grande no asfalto perto da padaria de novo",buraco_pavimentacao
+A pintura da sinalização sumiu na minha rua faz quinze dias!,transito_sinalizacao
+"Prezados, tem uma vala aberta no meio da rua na viela de novo. Obrigado.",buraco_pavimentacao
+"Boa tarde, a placa de pare caiu perto da padaria há uma semana",transito_sinalizacao
+A arvore esta com cupim em frente ao numero,poda_arvore
+"Bom dia, pedido de radar na avenida. Isso é um descaso!",transito_sinalizacao
+"Olá, pedido de radar na avenida na avenida principal desde segunda. Moradores pedem providência.",transito_sinalizacao
+"prezados, abriu um buraco na rua na viela desde ontem. isso é um descaso!",buraco_pavimentacao
+"bom dia, galhos secos caindo na calçada na esquina faz quinze dias. moradores pedem providência.",poda_arvore
+"por favor, os galhos estão tapando a placa na praça do bairro já faz tempo. isso é um descaso!",poda_arvore
+Gostaria de informar que o caminhao de lixo nao passou perto do ponto de onibus desde ontem. Isso e um descaso!,coleta_lixo
+"Prezados, a tampa do bueiro sumiu em frente à igreja desde segunda. Já reclamei antes.",agua_esgoto
+o lixo não é recolhido há uma semana perto do ponto de ônibus. isso é um descaso!,coleta_lixo
+"bom dia, o lixo nao e recolhido ha uma semaan na viela desde segunda",coleta_lixo
+"Oi, a placa de pare caiu ao lado do mercado ha uma semana.",transito_sinalizacao
+"por favor, a lombada está sem pintura na minha rua desde segunda",transito_sinalizacao
+"Bom dia, a coleta de lixo atrasou perto do ponto de ônibus já faz tempo",coleta_lixo
+Gostaria de informar que a calçada está quebrada e com buracos em frente ao número desde segunda.,buraco_pavimentacao
+pedido de corte de árvore perto do ponto de ônibus há uma semana. já reclamei antes.,poda_arvore
+Venho reclamar que a arvore esta inclinada e pode cair em frente ao numero ha mais de um mes,poda_arvore
+"Prezados, descarte irregular de sofá e móveis na minha rua já faz tempo",coleta_lixo
+"Bom dia, tem lixo espalhado na rua ao lado do mercado há mais de um mês. Obrigado.",coleta_lixo
+"Bom dia, um galho grande está pendurdao perto do ponto de ônibus desde segunda.",poda_arvore
+O asfalto cedeu na minha rua desde segunda. Aguardo retorno.,buraco_pavimentacao
+"Prezados, tem uma vala aberta no meio da rua na minha rua.",buraco_pavimentacao
+"Oi, a calçada está quebrada e com buracos na praça do bairro há uma semana. Moradores pedem providência.",buraco_pavimentacao
+O semáforo está apagado perto do ponto de ônibus. Moradores pedem providência.,transito_sinalizacao
+"Boa tarde, cheiro forte de esgoto na rua na praca do bairro faz quinze dias. Obrigado.",agua_esgoto
+A copa da árvore está cobrindo a iluminação na praça do bairro desde ontem.,poda_arvore
+"oi, tem um ponto viciado de lixo no terreno na rua de trás desde segunda. moradores pedem providência.",coleta_lixo
+A lombada está sem pintura na avenida principal faz quinze dias. Já reclamei antes.,transito_sinalizacao
+Venho reclamar que o esgoto está transbordando em frente ao número desde ontem. Moradores pedem providência.,agua_esgoto
+"Olá, a árvore precisa de poda ao lado do mercado desde segunda. Já reclamei atnes.",poda_arvore
+A coleta seletiva não está passando ao lado do mercado faz quinze dias,coleta_lixo
+"Bom dia, carros estacionados em fila dupla na praça do bairro desde segunda.",transito_sinalizacao
+"Olá, o poste está apagado na rua de trás de novo. Isso é um descaso!",iluminacao_publica
+"Prezados, pedido de remoção de árvore morta na esquina há uma semana. Moradores pedem prvoidência.",poda_arvore
+Gostaria de inforamr que o lixo esta acumulado na calcada na esquina.,coleta_lixo
+Gostaria de informar que esgoto correndo a céu aberto perto da padaria faz quinze dias. Moradores pedem providência.,agua_esgoto
+"Prezados, a luz do poste fica acendendo e apaganod faz quinze dias.",iluminacao_publica
+"oi, a copa da árvore está cobrindo a iluminação na avenida principal. já reclamei antes.",poda_arvore
+"Oi, o poste fica aceso durante o dia perto do ponto de ônibus de novo!",iluminacao_publica
+O remendo do asfalto abriu de novo perto do ponto de ônibus há mais de um mês. Aguardo retorno.,buraco_pavimentacao
+Gostaria de informar que o esgoto está transbordando na praça do bairro há uma semana. Obrigado.,agua_esgoto
+"por favor, cano estourado jorrando agua na avenida principal ja faz tempo!",agua_esgoto
+"Prezados, galhos secos caindo na calçada na avenida principal. Moradores pedem providência.",poda_arvore
+"Oi, pedido de cata-bagulho na avenida principal faz quinze dias. Obrigado.",coleta_lixo
+"Por favor, pedido de remoção de árvore morta na avenida principal desde segunda. Aguardo retorno.",poda_arvore
+"Bom dia, três postes seguidos estão sem luz perto da padaria há mais de um mês. Obrigado.",iluminacao_publica
+Venho reclamar que vazamento no hidrômetro em frente à igreja desde segunda,agua_esgoto
+"Por favor, os galhos estao tapando a placa ao lado do mercado faz quinze dias. Ja reclamei antes.",poda_arvore
+"Prezados, pedido de corte de árvore perto do ponto de ônibus desde ontem. Obrigado.",poda_arvore
+a água chega suja na torneira na esquina. já reclamei antes.,agua_esgoto
+"Oi, o lixo está acumulado na calçada na minha rua há uma semana. Já reclamei antes.",coleta_lixo
+"olá, a pintura da sinalização sumiu perto da padaria há uma semana!",transito_sinalizacao
+Venho reclamar que tres postes seguidos estao sem luz ja faz tempo. Moradores pedem providencia.,iluminacao_publica
+"olá, a rua inteira fica no escuro à noite na esquina há uma semana. obrigado.",iluminacao_publica
+A lixeira publica esta transbordando na avenida principal desde ontem. Obrigado.,coleta_lixo
+Três postes seguidos estão sem luz na praça do bairro faz quinze dias. Isso é um descaso!,iluminacao_publica
+"Bom dia, tem lixo espalhado na rua na viela de novo.",coleta_lixo
+"Oi, a copa da árvore está cobrindo a iluminação na avenida principal desde ontem. Já reclamei antes.",poda_arvore
+"Oi, a coleta seletiva não está passando ao lado do mercado. Já reclamei antes.",coleta_lixo
+"boa tarde, tem um buraco grande no asfalto em frente ao numero ja faz tempo",buraco_pavimentacao
+"Bom dia, tem uma vala aberta no meio da rua em frente ao número. Obrigado.",buraco_pavimentacao
+"Prezados, o bueiro esta entupido na praca do bairro ha mais de um mes. Obrigado.",agua_esgoto
+"Por favor, falta água desde ontem na avenida principal já faz tempo. Isso é um descaso!",agua_esgoto
+"Boa tarde, a rua esta sem iluminacao na avenida principal ja faz tempo. Obrigado.",iluminacao_publica
+"socorro, pedido de corte de árvore perto da padaria já faz tempo. isso é um descaso!",poda_arvore
+Venho reclamar que carrso estacionados em fila dupla na avenida principal há uma semana. Moradores pedem providência.,transito_sinalizacao
+Plantio de muda de árvore na calçdaa faz quinze dias. Aguardo retorno.,poda_arvore
+"Socorro, a rua precisa de recapeamento na rua de trás de novo!",buraco_pavimentacao
+"Prezados, tem buraco na pista que estoura pneu em frente à igreja. Isso é um descaso!",buraco_pavimentacao
+Venho reclamar que o bueiro esta entupido na viela faz quinze dias. Aguardo retorno.,agua_esgoto
+"socorro, a luminaria do poste quebrou na minha rua faz quinze dias. aguardo retorno.",iluminacao_publica
+gostaria de informar que a placa de pare caiu desde segunda. já reclamei antes.,transito_sinalizacao
+"por favor, a raiz da arvore lveantou a calcada na viela de novo.",poda_arvore
+"Por favor, o farol está com tempo muito curto na avenida principal de novo",transito_sinalizacao
+"Boa tarde, vazamento no hidrômetro na rua de trás. Já reclamei antes.",agua_esgoto
+"Prezados, descarte irregular de sofá e móveis em frente ao número há uma semana. Obrigado.",coleta_lixo
+"Prezados, o poste está apagado perto da padaria há mais de um mês. Aguardo retorno.",iluminacao_publica
+O farol está com tempo muito curto em frente à igreja há mais de um mês!,transito_sinalizacao
+"Oi, a árvore está inclinada e pode cair na avenida principal de novo. Aguardo retorno.",poda_arvore
+"Prezados, o farol esta com tempo muito curto na minha rua faz quinze dias. Ja reclamei antes.",transito_sinalizacao
+"Ola, tem um buraco grande no asfalto na avenida principal faz quinze dias. Aguardo retorno.",buraco_pavimentacao
+"bom dia, a rua inteira fica no escuro à noite na avenida principal faz quinze dias. moradores pedem providência.",iluminacao_publica
+Gostaria de informar que plantio de muda de árvore na calçada em frente ao número desde ontem. Isso é um descaso!,poda_arvore
+"Socorro, abriu um buraco na rua em frente à igreja há uma semana.",buraco_pavimentacao
+"bom dia, a luz do poste fica acendendo e apagando perto da padaria faz quinze dias!",iluminacao_publica
+"oi, o paralelepípedo soltou e virou buraco na minha rua há uma semana!",buraco_pavimentacao
+Gostaria de informar que o esgoto está transbordando em frente ao número há mais de um mês,agua_esgoto
+venho reclamar que a rua inteira fica no escuro à noite na avenida principal desde ontem!,iluminacao_publica
+"Socorro, operacao tapa-buraco nao passou aqui de novo!",buraco_pavimentacao
+Venho reclamar que o refletor da quadra está queimado na minha rua de novo. Moradores pedem providência.,iluminacao_publica
+"bom dia, a rua inteira fica no escuro à noite ao lado do mercado edsde segunda",iluminacao_publica
+"prezados, a luminaria do poste quebrou desde segunda. obrigado.",iluminacao_publica
+"boa tarde, a iluminação da praça não funciona. já reclamei antes.",iluminacao_publica
+"bom dia, tem lixo sepalhado na rua na esquina faz quinze dias!",coleta_lixo
+"Bom dia, a água chega suja na torneira na avenida principal há mais de um mês",agua_esgoto
+"bom dia, jogaram entulho na esqiuna na viela",coleta_lixo
+"Por favor, falta agua desde ontem perto do ponto de onibus ha uma semana. Ja reclamei antes.",agua_esgoto
+"oi, está vazando água na rua na avenida principal de novo",agua_esgoto
+Venho reclamar que tem lixo espalhado na rua em frente à igreja de novo. Isso é um descaso!,coleta_lixo
+Gostaria de informar que pedido de corte de arvore. Ja reclamei antes.,poda_arvore
+"ola, carros estacionados em fila dupla ao lado do mercado ha mais de um mes. moradores pedem providencia.",transito_sinalizacao
+"por favor, a coleta de lixo atrasou desde segunda",coleta_lixo
+"Por favor, a lombada esta sem pintura em frente ao numero desde segunda. Obrigado.",transito_sinalizacao
+"socorro, a árvore está com cupim em frente à igreja já faz tempo. obrigado.",poda_arvore
+gostaria de informar que tem uma vala aberta no meio da rua em frente a igreja. isso e um descaso!,buraco_pavimentacao
+"boa tarde, três postes seguidos estão sem luz perto do ponto de ônibus há uma semana",iluminacao_publica
+"Bom dia, a luminaria do poste quebrou em frente ao numero ha mais de um mes",iluminacao_publica
+"Oi, a coleta seletiva não está passando em frente à igreja. Obrigado.",coleta_lixo
+"socorro, a faixa de pedestre está apagada perto da padaria já faz tempo. moradores pedem providência.",transito_sinalizacao
+"Socorro, a lampada do poste esta queimada em frente a igreja desde segunda!",iluminacao_publica
+"olá, um galho grande está pendurado na rua de trás desde segunda.",poda_arvore
+"Boa tarde, o esgoto esta transbordando na vilea desde ontem. Ja reclamei antes.",agua_esgoto
+"socorro, o semáforo de pedestre não abre na viela há uma semana. moradores pedem providência.",transito_sinalizacao
+"Oi, o asfalto está todo esburacado de novo. Isso é um descaso!",buraco_pavimentacao
+falta agua desde ontem em frente ao numero. aguardo retorno.,agua_esgoto
+Gostaria de informar que a luz do poste fica acendendo e apagando na minha rua ha mais de um mes!,iluminacao_publica
+gostaria de informar que o asfalto esta todo esburacado na viela desde segunda. obrigado.,buraco_pavimentacao
+"por favor, a placa de pare caiu em frente a igreja desde ontem. ja reclamei antes.",transito_sinalizacao
+"boa tarde, operação tapa-bruaco não passou aqui na viela de novo.",buraco_pavimentacao
+"Socorro, a água chega suja na torneira há uma semana. Isso é um descaso!",agua_esgoto
+"bom dia, tem um buraco grande no asfalto na avenida principal de novo",buraco_pavimentacao
+"Socorro, o bueiro está entupido perto da padaria há uma semana. Já reclamei antes.",agua_esgoto
+"Prezados, peddio de corte de árvore em frente à igreja",poda_arvore
+"Por favor, os galhos estão tapando a placa perto da padaria",poda_arvore
+"prezados, cano estourado jorrando agua em frente ao numero ja faz tempo",agua_esgoto
+"Boa tarde, tem lixo espalhado na rua ja faz tempo.",coleta_lixo
+Gostaria de informar que tem lixo espalhado na rua na minha rua há uma semana,coleta_lixo
+Gostaria de informar que a pintura da sinalização sumiu em frente à igreja de novo. Isso é um descaso!,transito_sinalizacao
+venho reclamar que falta placa de proibido estacionar ao lado do mercado desde ontem,transito_sinalizacao
+"Oi, cano estourado jorrando água ao lado do mercado de novo. Obrigado.",agua_esgoto
+Venho reclamar que pedido de cata-bagulho perto do ponto de ônibus desde segunda. Obrigado.,coleta_lixo
+"bom dia, a guia da calcada esta quebrada na praca do bairro ha uma semana. ja reclamei antes.",buraco_pavimentacao
+"Por favor, o remendo do asfalto abriu de novo na esquina já faz tempo. Aguardo retorno.",buraco_pavimentacao
+plantio de muda de árvore na calçada na viela desde ontem!,poda_arvore
+"Oi, esgoto correndo a ceu aberto na esquina desde segunda.",agua_esgoto
+"Boa tarde, o poste está apagado perto do ponto de ônibsu há mais de um mês. Isso é um descaso!",iluminacao_publica
+"boa tarde, a luminária do poste quebrou há mais de um mês. obrigado.",iluminacao_publica
+"olá, a raiz da árvore levantou a calçada na viela de novo. já reclamei antes.",poda_arvore
+Gostaria de informar que o semáforo está apagado na esquina há mais de um mês.,transito_sinalizacao
+Gostaria de informar que a pintura da sinalizacao sumiu perto do ponto de onibus ja faz tempo,transito_sinalizacao
+Gostaria de informar que a calçada está quebrada e com buracos na viela já faz tempo. Aguardo retorno.,buraco_pavimentacao
+"Boa tarde, o lixo não é recolhido há uma semana ao lado do mercado de novo.",coleta_lixo
+Gostaria de informar que o remendo do asfalto abriu de novo perto da padaria faz quinze dias. Obrigado.,buraco_pavimentacao
+"Boa tarde, a boca de lobo esta entupida de lixo na rua de tras ha uma semana. Isso e um descaso!",agua_esgoto
+"olá, está vazando água na rua em frente ao número desde ontem",agua_esgoto
+"Oi, galhos secos caindo na calçada em frente à igreja faz quinze dias. Isso é um descaso!",poda_arvore
+"Oi, a placa de pare caiu perto do ponto de ônibus há uma semana. Obrigado.",transito_sinalizacao
+"Boa tarde, jogaram entulho na esquina perto da padaria desde ontem",coleta_lixo
+"prezados, tem um ponto viciado de lixo no terreno na viela ha uma semana. ja reclamei antes.",coleta_lixo
+"boa tarde, a copa da árvore está cobrindo a iluminação em frente à igreja desde segunda. isso é um descaso!",poda_arvore
+"Oi, tres postes seguidos estao sem luz na viela desde ontem.",iluminacao_publica
+"Prezados, cheiro forte de esgoto na rua na esquina ha mais de um mes.",agua_esgoto
+Venho reclamar que a lâmpada do poste está queimada em frente ao número desde segunda. Moradores pedem providência.,iluminacao_publica
+Venho reclamar que a placa de velocidade esta virada na praca do bairro ha uma semana.,transito_sinalizacao
+"Por favor, a copa da arvore esta cobrindo a iluminacao ja faz tempo.",poda_arvore
+"por favor, o poste fica aceso durante o dia na esquina faz quinze dias. aguardo retorno.",iluminacao_publica
+gostaria de informar que a placa de pare caiu perto da padaria. isso é um descaso!,transito_sinalizacao
+"Socorro, a coleta seletiva nao esta passando na rua de tras desde ontem. Moradores pedem providencia.",coleta_lixo
+Descarte irregular de sofa e moveis em frente ao numero desde ontem,coleta_lixo
+"por favor, um galho grande está pendurado em frente à igreja. obrigado.",poda_arvore
+A guia da calcada esta quebrada ao lado do mercado ha mais de um mes. Aguardo retorno.,buraco_pavimentacao
+Venho reclamar que vazamento no hidrometro perto da padaria desde ontem!,agua_esgoto
+gostaria de informar que a boca de lobo esta entupida de lixo na avenida principal ha uma semana. ja reclmaei antes.,agua_esgoto
+"por favor, a iluminação da praça não funciona na viela desde segunda.",iluminacao_publica
+"Oi, a faixa de pedestre está apagada de novo!",transito_sinalizacao
+"bom dia, tem um ponto viciado de lixo no terreno na praça do bairro faz quinze dias. obrigado.",coleta_lixo
+"Bom dia, a árvore está com cupim na avenida principal desde segunda. Moradores pedem providência.",poda_arvore
+venho reclamar que o poste fica aceso durante o dia ja faz tempo. isso e um descaso!,iluminacao_publica
+"Olá, tem lixo espalhado na rua perto da padaria há mais de um mês. Moradores pedem providência.",coleta_lixo
+"Socorro, plantio de muda de arvore na calcada na rua de tras de novo. Aguardo retorno.",poda_arvore
+"Prezados, tem um buraoc grande no asfalto na minha rua ha mais de um mes",buraco_pavimentacao
+"socorro, o poste fica aceso durante o dia na rua de trás desde segunda. isso é um descaso!",iluminacao_publica
+Gostaria de informar que galhos secos caindo na calçada na minha rua já faz tempo!,poda_arvore
+"Olá, o semáforo de pedestre não abre perto do ponto de ônibus desde ontem. Moradores pedem providência.",transito_sinalizacao
+"Oi, a agleria de água pluvial entupiu em frente ao número. Moradores pedem providência.",agua_esgoto
+a copa da arvore esta cobrindo a iluminacao em frente ao numero. obrigado.,poda_arvore
+"prezados, a árvore precisa de poda na praça do bairro desde segunda!",poda_arvore
+"Prezados, o paralelepípedo soltou e virou buraco na avenida principal de novo!",buraco_pavimentacao
+"Boa tarde, esta vazando agua na rua na viela ha mais de um mes. Ja reclamei antes.",agua_esgoto
+"Oi, o bueiro está entupido em frente ao número há uma semana. Já reclamei antes.",agua_esgoto
+"Oi, a galeria de água pluvial entupiu na rua de trás desde segunda. Moradores pedem providência.",agua_esgoto
+"Por favor, tem buraco na pista que estoura pneu na praça do bairro.",buraco_pavimentacao
+"Boa tarde, esgoto correndo a céu aberto em frente à igreja de novo. Obrigado.",agua_esgoto
+Os galhos da árvore estão encostando nos fios na esquina desde segunda,poda_arvore
+"boa tarde, o caminhão de lixo não passou na rua de trás há mais de um mês. aguardo retorno.",coleta_lixo
+"Bom dia, a árvore está inclinada e pode cair em frente ao número faz quinze dias. Já reclamei antes.",poda_arvore
+Gostaria de informar que a placa de velocidade esta virada na viela desde segunda. Ja reclamei antes.,transito_sinalizacao
+"Socorro, a placa de velocidade está virada na rua de trás faz quinze dias. Isso é um descaso!",transito_sinalizacao
+"Ola, jogaram entulho na esquina na avenida principal faz quinze dias. Aguardo retorn.o",coleta_lixo
+"Prezados, o bueiro está entupido na viela há mais de um mês",agua_esgoto
+venho reclamar que tem um ponto viciado de lixo no terreno faz quinze dias. isso é um descaso!,coleta_lixo
+"boa tarde, a guia da calçada está quebrada perto do ponto de ônibus já faz tempo",buraco_pavimentacao
+"prezados, está vazando água na rua na esquina faz quinze dias. aguardo retorno.",agua_esgoto
+"por favor, o caminhao de lixo nao passou em frente ao numero ha mais de um mes.",coleta_lixo
+A coleta de lixo atrasou perto da padaria faz quinze dias,coleta_lixo
+"boa tarde, a rua está sem iluminação em frente à igreja há mais de um mês.",iluminacao_publica
+"olá, a lixeira pública está transbordando ao lado do mercado já faz tempo. moradores pedem providência.",coleta_lixo
+"Por favor, cano estourado jorrando água em frente à igreja desde ontem.",agua_esgoto
+"Bom dia, o semáforo de pedestre não abre na avenida principal já faz tempo!",transito_sinalizacao
+"Oi, tem uma vala aberta no meio da rua ao lado do mercado faz quinze dias. Já reclamei antes.",buraco_pavimentacao
+"oi, os galhos da árvore estão encostando nos fios perto do ponto de ônibus já faz tempo. obrigado.",poda_arvore
+"Boa tarde, falta placa de proibido estacionar em frente a igreja desde ontem. Aguardo retorno.",transito_sinalizacao
+"oi, a arvore esta inclinada e pode cair em frente ao numero ha uma semana",poda_arvore
+"Prezados, a raiz da árvore levantou a calçada em frente ao número há mais de um mês",poda_arvore
+"Prezados, o paralelepípedo soltou e virou buraco em frente à igreja de novo. Obrigdao.",buraco_pavimentacao
+"por favor, um galho grande está pendurado perto do ponto de ônibus desde segunda. já reclamei antes.",poda_arvore
+Tem lixo espalhado na rua de novo. Ja reclamei antes.,coleta_lixo
+"Bom dia, a lâmpada do poste está queimada em frente ao número há mais de um mês. Já reclamei antes.",iluminacao_publica
+"Bom dia, esgoto correndo a céu aberto na viela há uma semana!",agua_esgoto
+Gostaria de informar que a coleta seletiva não está passando na esquina há uma semaan. Já reclamei antes.,coleta_lixo
+"prezados, a rua inteira fica no escuro a noite na rua de tras ha uma semana. obrigado.",iluminacao_publica
+"Socorro, a água chega suja na torneira perto do ponto de ônibus desde ontem. Já reclamei nates.",agua_esgoto
+"Socorro, o esgoto esta transbordando perto da padaria desde segunda. Isso e um descaso!",agua_esgoto
+venho reclamar que o lixo nao e recolhido ha uma semana desde segunda.,coleta_lixo
+"Por favor, a faixa de pedestre está apagada em frente à igreja desde segunda. Isso é um descaso!",transito_sinalizacao
+"Olá, a coleta de lixo atrasou na praça do bairro faz quinze dias",coleta_lixo
+"Boa tarde, os galhos estão tapando a placa em frente à igreja. Já reclamei antes.",poda_arvore
+"Bom dia, a coleta de lixo atrasou na minha rua desde ontem. Moradores pedem providência.",coleta_lixo
+"Por favor, o poste fica aceso durante o dia em frente à igreja há mais de um mês. Moradores pedem providência.",iluminacao_publica
+Gostaria de informar que a faixa de pedestre esta apagada na praca do bairro desde segunda. Obrigado.,transito_sinalizacao
+"Olá, a boca de lobo está entupida de lixo na minha rua há mais de um mês. Isso é um descaso!",agua_esgoto
+Gostaria de informar que a pintrua da sinalizacao sumiu faz quinze dias. Aguardo retorno.,transito_sinalizacao
+"Oi, a boca de lobo está entupida de lixo na viela desde segunda!",agua_esgoto
+"Prezados, o semáforo de pedestre não abre ao lado do mercado desde segunda. Obrigado.",transito_sinalizacao
+venho reclamar que a coleta de lixo atrasou ha uma semana. isso e um descaso!,coleta_lixo
+gostaria de informar que o contêiner de lixo está cheio e com mau cheiro desde segunda. obrigado.,coleta_lixo
+"Boa tarde, o asfalto está todo esburacado na praça do bairro há uma semana. Aguardo retorno.",buraco_pavimentacao
+"Boa tarde, a rua precisa de recapeamento perto do ponto de ônibus. Isso é um descaso!",buraco_pavimentacao
+"Olá, três postes seguidos estão sem luz na viela faz quinze dias. Já reclamei antes.",iluminacao_publica
+"Prezados, a luminária do poste quebrou na minha rua há uma semana. Moradores pedem providência.",iluminacao_publica
+"oi, precisa de lombada na rua na avenida principal há uma semana. isso é um descaso!",transito_sinalizacao
+"Prezados, tem um buraco grande no asfalto na esquina há uma semana. Isso é um descaso!",buraco_pavimentacao
+"Oi, abriu um buraco na rua na viela já faz tempo",buraco_pavimentacao
+"bom dia, operação tapa-buraco não passou aqui perto do ponto de ônibus desde segunda.",buraco_pavimentacao
+"boa tarde, a coleta seletiva não está passando perto do ponto de ônibus de novo. isso é um descaso!",coleta_lixo
+venho reclamar que a iluminação da praça não funciona em frente à igreja.,iluminacao_publica
+"Boa tarde, a lixeira publica esta transbordando na esquina ja faz tempo. Obrigado.",coleta_lixo
+Gostaria de informar que esgoto correndo a céu aberto perto da padaria desde segunda.,agua_esgoto
+"Bom dia, os galhos da árvore estão encostando nos fios na praça do bairro há mais de um mês. Isso é um descaso!",poda_arvore
+Gostaria de informar que a luz do poste fica acendendo e apagando na avenida principal há uma semana,iluminacao_publica
+"oi, o semaforo esta apagado perto da padaria desde ontem",transito_sinalizacao
+Venho reclamar que o refletor da quadra está queimado em frente à igreja desde segunda!,iluminacao_publica
+"bom dia, a coleta de lixo atrasou ao lado do mercado desde ontem. moradores pedem providência.",coleta_lixo
+venho reclamar que abriu um buraco na rua na avenida principal faz quinze dias.,buraco_pavimentacao
+"Boa tarde, vazamento no hidrometro em frente a igreja ja faz tempo. Isso e um descaso!",agua_esgoto
+"bom dia, a iluminação da praça não funciona ao lado do mercado de novo. isso é um descaso!",iluminacao_publica
+"Socorro, o asfalto cedeu em frente ao número desde ontem. Obrigado.",buraco_pavimentacao
+"Bom dia, a luminária do poste quebrou ao lado do mercado há mais de um mês. Moradores pedem providência.",iluminacao_publica
+"Prezados, os galhos estão tapando a placa de novo.",poda_arvore
+"Boa tarde, a lombada está sem pintura ao lado do mercado de novo",transito_sinalizacao
+venho reclamar que o bueiro está entupido em frente à igreja há uma semana!,agua_esgoto
+"por favor, o contêiner de lixo está cheio e com mau cheiro desde segunda",coleta_lixo
+"bom dia, pedido de corte de arvore na viela ha uma semana. ja reclamei antes.",poda_arvore
+"Boa tarde, falta água desde ontem perto do ponto de ônibus faz quinze dias!",agua_esgoto
+"socorro, esgoto correndo a ceu aberto em frente ao numero de novo. moradores pedem providencia.",agua_esgoto
+"Prezados, o poste fica aceso durante o dia desde segunda. Aguardo retorno.",iluminacao_publica
+"Olá, a lixeira pública está transbordando já faz tempo. Já reclamei antes.",coleta_lixo
+"Socorro, o poste está apagado na rua de trás há uma semana. Já reclamei antes.",iluminacao_publica
+"Oi, falta placa de proibido estacionar em frente a igreja",transito_sinalizacao
+"prezados, esgoto correndo a ceu aberto na minha rua de novo. aguardo retorno.",agua_esgoto
+Venho reclamar que tem buraco na pista que estoura pneu na esquina. Obrigado.,buraco_pavimentacao
+Cheiro forte de esgoto na rua perto da padaria faz quinze dias. Aguardo retorno.,agua_esgoto
+"olá, a árvore está inclinada e pode cair na praça do bairro faz quinze dias. siso é um descaso!",poda_arvore
+"Socorro, a arvore esta inclinada e pode cair na viela desde segunda. Aguardo retorno.",poda_arvore
+venho reclamar que a boca de lobo está entupida de lixo na minha rua. aguardo retorno.,agua_esgoto
+"boa tarde, a tampa do bueiro sumiu em frente à igreja!",agua_esgoto
+venho reclamar que plantio de muda de árvore na calçada em frente ao número há uma semana. obrigado.,poda_arvore
+Venho reclamar que a luminária do poste quebrou na praça do bairro faz quinze dias!,iluminacao_publica
+"Boa tarde, trocar a lâmpada do poste perto do ponto de ônibus já faz tempo. Aguardo retorno.",iluminacao_publica
+"Oi, o remendo do asfalto abriu de novo na minha rua. Obrigado.",buraco_pavimentacao
+"boa tarde, descarte irregular de sofá e móveis na avenida principal desde ontem. obrigado.",coleta_lixo
+"Olá, o poste está apagado perto do ponto de ônibus há uma semana. Obrigado.",iluminacao_publica
+"Prezados, a tampa do bueiro sumiu há uma semana. Aguardo retorno.",agua_esgoto
+"Socorro, tem lixo espalhado na rua perto da padaria já faz tempo. Já reclamei antes.",coleta_lixo
+"Oi, tem lixo espalhado na rua perto da padaria desde ontem. oMradores pedem providência.",coleta_lixo
+Venho reclamar que a luminária do poste quebrou na minha rua faz quinze dias. Moradores pedem providência.,iluminacao_publica
+"Por favor, a galeria de agua pluvial entupiu na praca do bairro ha mais de um mes. Isso e um descaso!",agua_esgoto
+"Socorro, a água chega suja na torneira em frente ao número faz quinze dias",agua_esgoto
+Operacao tapa-buraco nao passou aqui na viela ha mais de um mes. Ja reclamei antes.,buraco_pavimentacao
+Venho reclamar que trocar a lampada do poste perto do ponto de onibus.,iluminacao_publica
+gostaria de informar que o lixo não é recolhido há uma semana já faz tempo. aguardo retorno.,coleta_lixo
+"Por favor, a iluminação da praça não funciona faz quinze dias. Já reclamei antes.",iluminacao_publica
+Gostaria de informar que a galeria de agua pluvial entupiu ha mais de um mes. Moradores pedem providencia.,agua_esgoto
+Vneho reclamar que plantio de muda de árvore na calçada na minha rua desde ontem,poda_arvore
+"Prezados, a placa de pare caiu na viela já faz tempo",transito_sinalizacao
+"bom dia, o asfalto cedeu na esquina já faz tempo!",buraco_pavimentacao
+Trocar a lâmpada do poste perto do ponto de ônibus há uma semana. Moradores pedem providência.,iluminacao_publica
+"prezados, a coleta seletiva nao esta passando na avenida princiapl ja faz tempo!",coleta_lixo
+Gostaria de informar que a placa de velocidade está virada na praça do bairro desde segunda. Obrigado.,transito_sinalizacao
+"por favor, os galhos da árvore estão encostando nos fios na rua de trás há mais de um mês!",poda_arvore
+"olá, a placa de pare caiu ao lado do mercado há mais de um mês. aguardo retorno.",transito_sinalizacao
+venho reclamar que a árvore precisa de poda perto da padaria. obrigado.,poda_arvore
+"Bom dia, trocar a lâmpada do poste na minha rua desde segunda. Isso é um descaso!",iluminacao_publica
+"boa tarde, galhos secos caindo na calcada na viela de novo. moradores pedem providencia.",poda_arvore
+"Socorro, abriu um buraco na rua na esquina desde ontem. Obrigado.",buraco_pavimentacao
+"Ola, os galhos da arvore estao encostando nos fios em frente ao numero desde ontem. Ja reclamei antes.",poda_arvore
+gostaria de informar que cheiro forte de esgoto na rua na rua de trás há uma semana. moradores pedem providência.,agua_esgoto
+Gostaria de informar que a árvore está com cupim na esquina já faz tempo. Obrigado.,poda_arvore
+"Bom dia, o paralelepipedo soltou e virou buraco ao lado do mercado ha uma semana. Aguardo retorno.",buraco_pavimentacao
+"Bom dia, a lombada está sem pintura em frente ao número há uma semana. Isso é um descaso!",transito_sinalizacao
+"oi, um galho grande está pendurado ao lado do mercado desde segunda. obrigado.",poda_arvore
+a placa de velocidade esta virada na minha rua,transito_sinalizacao
+"Socorro, a guia da calçada está quebrada já faz tempo. Aguardo retorno.",buraco_pavimentacao
+A placa de pare caiu ao lado do mercado desde segunda,transito_sinalizacao
+"Por favor, a rua precisa de recapeamento ao lado do mercado já faz tempo!",buraco_pavimentacao
+Gostaria de informar que tem um buraco grande no asfalto em frente a igreja ja faz tempo!,buraco_pavimentacao
+"bom dia, o remendo do asfalto abriu de novo em frente ao número desde segunda. moradores pedem providência.",buraco_pavimentacao
+"Bom dia, a rua esta sem iluminacao perto da padaria desde ontem.",iluminacao_publica
+"socorro, o conteiner de lixo esta cheio e com mau cheiro na praca do bairro faz quinze dias. moradores pedem providencia.",coleta_lixo
+o refletor da quadra está queimado na viela já faz tempo. já reclamei antes.,iluminacao_publica
+"Boa tarde, operação tapa-buraco não passou aqui desde segunda.",buraco_pavimentacao
+Venho reclamar que a boca de lobo está entupida de lixo na esquina já faz tempo. Aguardo retorno.,agua_esgoto
+"Prezados, a pintura da sinalização sumiu na rua de trás desde segunda.",transito_sinalizacao
+gostaria de informar que o poste esta apagado perto do ponto de onibus ha uma semana!,iluminacao_publica
+Venho reclamar que os galhos da árvore estão encostando nos fios ao lado do mercado faz quinze dias. Aguardo retorno.,poda_arvore
+Gostaria de informar que plantoi de muda de arvore na calcada ao lado do mercado de novo.,poda_arvore
+Os galhos estão tapando a placa perto do ponto de ônibus há uma semana. Aguardo retorno.,poda_arvore
+"oi, os galhos da arvore estao encostando nos fios ao lado do mercado desde segunda. ja reclamei antes.",poda_arvore
+"Bom dia, esgoto correndo a céu aberto perto do ponto de ônibus há uma semana. Obrigado.",agua_esgoto
+"Bom dia, o caminhao de lixo nao passou na viela desde ontem",coleta_lixo
+a árvore precisa de poda perto do ponto de ônibus há mais de um mês. aguardo retorno.,poda_arvore
+"Prezados, tres postes seguidos estao sem luz perto do ponto de onibus ha mais de um mes",iluminacao_publica
+"Oi, a copa da árvore está cobrindo a iluminaçoã perto da padaria. Isso é um descaso!",poda_arvore
+"Prezados, a luz do poste fica acendendo e apagando na viela há uma semana. Moradores pedem providência.",iluminacao_publica
+"Bom dia, descarte irregular de sofá e móveis em frente ao número há mais de um mês. Obrigado.",coleta_lixo
+"boa tarde, os galhos da árvore estão encostando nos fios perto do ponto de ônibus desde segunda. aguardo retorno.",poda_arvore
+Venho reclamar que falta água desde ontem na minha rua desde ontem. Moradores pedem providência.,agua_esgoto
+"Boa tarde, a rua precisa de recapeamento na minha rua desde ontem. Ja reclamei antes.",buraco_pavimentacao
+"Por favor, tem um buraco grande no asfalto na esquina de novo. Obrigado.",buraco_pavimentacao
+Pedido de corte de árvore na praça do bairro.,poda_arvore
+"Prezados, a luminária do poste quebrou ao lado do mercado há uma semana",iluminacao_publica
+"Socorro, abriu um buraco na rua na rua de trás há uma semana. Aguardo retorno.",buraco_pavimentacao
+"oi, a guia da calçada está quebrada na esquina desde segunda!",buraco_pavimentacao
+"boa tarde, o refletor da quadra está queimado em frente à igreja há mais de um mês. moradores pedem providência.",iluminacao_publica
+Venho reclamar que a guia da calçada está quebrada há mais de um mês. Já reclamei antes.,buraco_pavimentacao
+"Ola, a guia da calcada esta quebrada em frente ao numero ha mais de um mes. Moradores pedem providencia.",buraco_pavimentacao
+"Prezados, três postes seguidos estão sem luz em frente ao número faz quinze dias. Moradores pedem providência.",iluminacao_publica
+"Boa tarde, a raiz da árvore levantou a calçada perto da padaria desde segunda. Moradores pedem providência.",poda_arvore
+"Boa tarde, o farol está com tempo muito curto na esquina já faz tempo.",transito_sinalizacao
+"prezados, o bueiro está entupido em frente ao número desde segunda. moradores pedem providência.",agua_esgoto
+"Por favor, cano estourado ojrrando água na avenida principal desde ontem.",agua_esgoto
+"oi, a lombada esta sem pintura na rua de tras faz quinze dias. moradores pedem providencia.",transito_sinalizacao
+"olá, pedido de remoção de árvore morta em frente à igrjea desde segunda. obrigado.",poda_arvore
+venho reclamar que operacao tapa-buraco nao passou aqui em frente a igreja. ja reclamei antes.,buraco_pavimentacao
+"Olá, carros estacionados em fila dupla na rua de trás faz quinze dias. Obrigado.",transito_sinalizacao
