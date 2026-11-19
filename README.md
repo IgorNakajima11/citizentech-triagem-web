@@ -3,6 +3,8 @@
 Global Solution 2026/2, disciplina Front-end em Sistemas de IA.
 Aluno: Igor Nakajima, RM 563632 (trabalho individual).
 
+**Vídeo de apresentação:** [video/apresentacao_igor_nakajima_563632.mp4](video/apresentacao_igor_nakajima_563632.mp4)
+
 Aplicação web em que o cidadão descreve em linguagem livre um problema na rua (poste apagado, buraco, fio caído,
 lixo, árvore, semáforo) e recebe na hora uma orientação clara: assunto, urgência, secretaria responsável, prazo de
 referência e o que fazer para se proteger. Antes do envio, o cidadão confere e pode corrigir a classificação feita
